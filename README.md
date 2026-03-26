@@ -44,4 +44,5 @@ python -m streamlit run dashboard/app.py
 
 ## 📬 Contact
 
-(Your LinkedIn / Email)
+https://www.linkedin.com/in/pulkit-khaneja-24133a381/ khanejapulkit@outlook.com
+
