@@ -19,9 +19,6 @@ This project analyzes Pokémon data to uncover patterns in stats, types, and leg
 * Streamlit (Dashboard)
 * Scikit-learn
 
-## 📊 Dashboard
-
-(Add your dashboard screenshot here)
 
 ## ▶️ Run Locally
 
